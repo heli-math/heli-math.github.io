@@ -9,6 +9,16 @@ tags:
 
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
 
+# Heading
+
+```
+# Heading level 1
+## Heading level 2
+### Heading level 3
+```
+
+# code
+
 ```R
 # This is a sample R code block
 install.packages("ggplot2")
@@ -17,10 +27,4 @@ library(ggplot2)
 # Create a simple scatter plot
 ggplot(data = mtcars, aes(x = wt, y = mpg)) + 
     geom_point()
-```
-
-```
-function test() {
-  console.log("This code will have a copy button to the right of it");
-}
 ```
