@@ -9,8 +9,11 @@ tags:
 
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
 
-```javascript
-import copyCodeBlock from '@pickra/copy-code-block';
-// OR
-const copyCodeBlock = require('@pickra/copy-code-block');
-```
+```R
+# This is a sample R code block
+install.packages("ggplot2")
+library(ggplot2)
+
+# Create a simple scatter plot
+ggplot(data = mtcars, aes(x = wt, y = mpg)) + 
+    geom_point()
