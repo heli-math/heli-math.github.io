@@ -19,3 +19,8 @@ ggplot(data = mtcars, aes(x = wt, y = mpg)) +
     geom_point()
 ```
 
+```
+function test() {
+  console.log("This code will have a copy button to the right of it");
+}
+```
