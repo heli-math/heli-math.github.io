@@ -7,22 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate in the Department of Mathematics at XXX University, NL, under the supervision of Professor [AB C](https://github.com) and [CD E](https://github.com).
-
-My research .......
+I am currently a PhD candidate in the Department of Mathematics at Radboud University, the Netherlands, under the supervision of Professor [Jeanine Houwing-Duistermaat](https://www.ru.nl/personen/houwing-duistermaat-j), Dr. [Said el Bouhaddani](https://www.umcutrecht.nl/en/research/researchers/el-bouhaddani-said-s) and Dr. [Haiyan Liu](https://eps.leeds.ac.uk/maths/staff/4053/dr-haiyan-liu).
 
 My current research interests
 ======
 ### Theory and methodology for:
-- 123
-- 456
+- Random effects model
+- Longitudinal model
+- Functional data analysis
+- Two-stage-model
 
 ### Application areas:
-- 123
-- 456
+- Omics data
+- TwinsUK data
+- Brain image data
 
 Contact
 ======
-- Office: 123, NL
-- Email:
+- Visiting address: Heyendaalseweg 135, 6525 AJ Nijmegen, the Netherlands
+- Email: he[dot]li[at]ru[dot]nl
   
